@@ -1,43 +1,37 @@
 {
   "personalInfo": {
     "name": {
-      "firstName": "Thiago",
-      "lastName": "Loschi"
+      "firstName": "Monique",
+      "lastName": "Moledo"
     },
-    "jobTitle": "Lead Front End Engineer",
+    "jobTitle": "Software Engineer",
     "location": "Ottawa, Canada",
-    "contacts": [
-      {
+    "contacts": [{
         "name": "linkedin",
-        "url": "https://linkedin.com/in/thiagoloschi"
+        "url": "https://www.linkedin.com/in/moniquemoledo"
       },
       {
         "name": "github",
-        "url": "https://github.com/thiagoloschi"
-      },
-      {
-        "name": "codepen",
-        "url": "https://codepen.io/thiagoloschi"
+        "url": "https://github.com/MoniMoledo"
       },
       {
         "name": "instagram",
-        "url": "https://instagram.com/thiagoloschi_"
+        "url": "https://www.instagram.com/monimoledo"
       },
       {
         "name": "facebook",
-        "url": "https://facebook.com/thiagoloschi"
+        "url": "https://www.facebook.com/MoniqueMoledo"
       }
     ]
   },
-  "education": [
-    {
+  "education": [{
       "period": {
         "beginDate": "2015",
         "endDate": "2016"
       },
       "school": "California State University East Bay",
       "major": "Computer Science",
-      "type": "Bachelor of Science - Continuing education",
+      "type": "Non-degree continuing education",
       "place": "Hayward, United States",
       "badge": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/CSUEB.svg/1200px-CSUEB.svg.png",
       "url": "https://www.csueastbay.edu"
@@ -45,85 +39,42 @@
     {
       "period": {
         "beginDate": "2013",
-        "endDate": "2016"
+        "endDate": "2017"
       },
-      "school": "Instituto Federal do Sudeste de Minas Gerais",
-      "major": "Systems for the Internet",
-      "type": "Techonology",
-      "place": "Barbacena, Brazil",
-      "badge": "https://www.ifsudestemg.edu.br/imagens/logos/ifsudestemg.png/@@images/e76f03ce-2be3-44b5-bb5b-57b75ebfb254.png",
-      "url": "https://www.ifsudestemg.edu.br/"
+      "school": "Universidade Federal Fluminense",
+      "major": "Computer Science",
+      "type": "Bachelor degree",
+      "place": "Rio de Janeiro, Brazil",
+      "badge": "https://seeklogo.com/images/U/UFF-logo-230B4CA639-seeklogo.com.gif",
+      "url": "http://www.uff.br"
     }
   ],
-  "experiences": [
-    {
+  "experiences": [{
       "period": {
-        "beginDate": "March 2019",
+        "beginDate": "May 2018",
         "endDate": "current"
       },
-      "jobTitle": "Lead Front End Engineer",
-      "company": "Slice Labs",
+      "jobTitle": "Data Engineer",
+      "company": "Shopify",
       "location": "Ottawa, Canada",
-      "description": "Currently fixing insurance at Slice Labs.",
-      "url": "https://slice.is",
-      "image": "data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MDIuNjkgMTcyLjg4Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2ZmZjt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPlNsaWNlLWxvZ28td29yZG1hcmstV2hpdGU8L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTIxNy41LDU3LjUyYTExLjkxLDExLjkxLDAsMCwwLDguNzMsMi42LDEzLjExLDEzLjExLDAsMCwwLDYuNi0yLjQ3LDIwLjcxLDIwLjcxLDAsMCwwLDUuMzMtNS42LDI1LjE1LDI1LjE1LDAsMCwwLDMuMzctNy42NywyNS43MSwyNS43MSwwLDAsMCwuNy04LjY3LDEyLjMxLDEyLjMxLDAsMCwwLTQtOC42MSwxMC44NiwxMC44NiwwLDAsMC04LjM5LTIuNjNBMTQuMjUsMTQuMjUsMCwwLDAsMjIyLjkxLDI3YTIwLjM3LDIwLjM3LDAsMCwwLTUuNDQsNS42MUEyNy41LDI3LjUsMCwwLDAsMjE0LDQwLjE2YTIyLjMzLDIyLjMzLDAsMCwwLS44NCw4LjM1UTIxMy42Niw1NC41LDIxNy41LDU3LjUyWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTguNjggLTguNDkpIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNNDA5LjY0LDExNS41NGE0LjY0LDQuNjQsMCwwLDAtMy4zNC0xLjA1LDMuNzYsMy43NiwwLDAsMC0xLjk1LjcyLDguMTQsOC4xNCwwLDAsMC0xLjI0LDEuMTIsNC4zOCw0LjM4LDAsMCwwLTEsMS42NSw0NS45NCw0NS45NCwwLDAsMS04LjIyLDExLDUzLjg0LDUzLjg0LDAsMCwxLTEwLjI3LDcuOTMsMzEuNDUsMzEuNDUsMCwwLDEtMTMuOTMsNC40NSwxOS42NiwxOS42NiwwLDAsMS0xNC4yMi00LjE0cS02LjI0LTQuODMtNy4xLTE0LjgyYTMyLDMyLDAsMCwwLDMuMzkuMzgsMjAuNjUsMjAuNjUsMCwwLDAsNS4xNi4yMnExMC40NC0uOSwxNy4xMS01LjE2YTM0LjcsMzQuNywwLDAsMCwxMC4zNC05LjczQTM1LDM1LDAsMCwwLDM5MC4yOCw4N2EyMSwyMSwwLDAsMC0yLjYzLTguNDksMjQsMjQsMCwwLDAtNS44Ni03QTI3LjE4LDI3LjE4LDAsMCwwLDM3My41Nyw2N2EyMywyMywwLDAsMC05LjcyLTEuMTcsMzYuNCwzNi40LDAsMCwwLTE1LjMsNS4zNCw1My41Myw1My41MywwLDAsMC0xNC40NCwxMi43Nyw2Mi42MSw2Mi42MSwwLDAsMC0xMC4yMiwxOC44OSw1Ni4xMSw1Ni4xMSwwLDAsMC0yLjY3LDIzLjQ5LDMzLjc4LDMzLjc4LDAsMCwwLC41MywzLjY5LDUwLjM3LDUwLjM3LDAsMCwxLTUuNDQsNi40MSw1My4xOCw1My4xOCwwLDAsMS0xMC4wNiw3LjgxLDMwLjQ0LDMwLjQ0LDAsMCwxLTEzLjUsNC4yOSwyMywyMywwLDAsMS0xNi4xMi00LjE5cS02LjgxLTUtNy44MS0xNi41NWE1Mi41Miw1Mi41MiwwLDAsMSwuOTItMTUuMTcsNjAsNjAsMCwwLDEsNC42MS0xMy45MywzNS41NiwzNS41NiwwLDAsMSw3LjI3LTEwLjM2LDE1LDE1LDAsMCwxLDkuMTItNC40OCw3LjMzLDcuMzMsMCwwLDEsNC42NywxQTQuMSw0LjEsMCwwLDEsMjk3LjU4LDg4YTMuODEsMy44MSwwLDAsMS0xLjE4LDMuMTJjLS45LjktMS44NiwxLjg3LTIuODgsMi45M2EyMC44OCwyMC44OCwwLDAsMC0yLjcyLDMuNDgsNy42MSw3LjYxLDAsMCwwLS45Myw0Ljc4LDguMjUsOC4yNSwwLDAsMCw0LDYuMjVBMTIuMjMsMTIuMjMsMCwwLDAsMzAyLDExMC42YTguMjksOC4yOSwwLDAsMCw0LjQyLTEuOTUsMTkuODIsMTkuODIsMCwwLDAsNC00LjM3LDIxLjUzLDIxLjUzLDAsMCwwLDIuNzUtNS43MSwxNiwxNiwwLDAsMCwuNzEtNiwxOC40MSwxOC40MSwwLDAsMC0yLjQ0LTcuNTEsMjMuMjYsMjMuMjYsMCwwLDAtNS42LTYuNTYsMjQuNjQsMjQuNjQsMCwwLDAtOC4zMS00LjMxLDI4LjQyLDI4LjQyLDAsMCwwLTEwLjgyLTEsMzguNzUsMzguNzUsMCwwLDAtMTYuOTMsNS45NEE1OC4xNSw1OC4xNSwwLDAsMCwyNTQuNyw5Mi41NWE2Mi43NCw2Mi43NCwwLDAsMC0xMC4yNCwxOC42Niw1MS4yOCw1MS4yOCwwLDAsMC0yLjcxLDIxLjYsMzguNTUsMzguNTUsMCwwLDAsMS42OCw4LjY2Yy0uMTcuMjEtLjMzLjQzLS41LjYzYTM4Ljg4LDM4Ljg4LDAsMCwxLTcuMDgsNy4zMiwxNS42MywxNS42MywwLDAsMS04LjUyLDMuNjQsNi4zNSw2LjM1LDAsMCwxLTUuNDItMS44Nyw5LjQ5LDkuNDksMCwwLDEtMi40MS01Ljk1LDYyLjczLDYyLjczLDAsMCwxLC41NS0xNS41OXExLjI0LTcuNTksMy0xNC40NnQzLjI0LTEyLjkxYTM0LjExLDM0LjExLDAsMCwwLDEuMDUtMTEuMTcsNi4xNCw2LjE0LDAsMCwwLTIuMDctMy4yOCwyNy4zNiwyNy4zNiwwLDAsMC00LjgtMy43MywzOC4zNywzOC4zNywwLDAsMC02LjA4LTNBMTIuNzksMTIuNzksMCwwLDAsMjA4LjcxLDgwYTUuNjMsNS42MywwLDAsMC0zLjQ1LDEuNTMsOC44MSw4LjgxLDAsMCwwLTIuMTgsMy4ycS0xLjU5LDQuODUtMy45MiwxMi44N3QtNC4yNCwxNi45MXEtMS45LDguOS0zLjE4LDE3LjVjLS4zOCwyLjU1LS42Myw0LjkxLS43Nyw3LjEyYTQ3Ljc5LDQ3Ljc5LDAsMCwxLTUuMzMsNy45NCwzOS4yOSwzOS4yOSwwLDAsMS03LjA5LDcuMzNBMTUuNzUsMTUuNzUsMCwwLDEsMTcwLDE1OHEtNi44OS42LTExLTR0LTQuNzYtMTIuMzRjLS4xNi0xLjkyLS4yNi0zLjg5LS4yOC01LjlhNDkuOTEsNDkuOTEsMCwwLDEsLjE5LTUuNWMuMTMtMS45NC4yNi0zLjgyLjQxLTUuNjJhMTgwLjY0LDE4MC42NCwwLDAsMSwyLjc2LTE5LjU4YzM5LjA1LTIzLjI2LDQzLjgtNjUuNTgsNDMuOC02NS41OGgwYTMxLjQzLDMxLjQzLDAsMCwwLC43Ny04Ljg0LDE0LjA5LDE0LjA5LDAsMCwwLTIuMDgtNiwyMi45LDIyLjksMCwwLDAtNC42Mi01LjUzQTIzLjM5LDIzLjM5LDAsMCwwLDE4OSwxNS4yNmExNC45MiwxNC45MiwwLDAsMC03LjI2LTEuMTZxLTgsLjY5LTE1LjM1LDcuMzdhNzYuNzIsNzYuNzIsMCwwLDAtMTMuODIsMTcuNEExNDUuNjcsMTQ1LjY3LDAsMCwwLDE0MS4xMyw2M2EyNTIuMzEsMjUyLjMxLDAsMCwwLTguNDcsMjcuNDZxLTEuOTMsNy44My0zLjIyLDE1LjU2QTcyLDcyLDAsMCwxLDExNCwxMDkuNjhjLTEuMjYtMi4yOS0yLjYyLTQuNTctNC4xLTYuODVRMTA1LjgxLDk2LjQ4LDEwMSw5MC4yVDkyLjA5LDc3LjU2YTEwMC4wOCwxMDAuMDgsMCwwLDEtNy4xNy0xMyw0MS44NCw0MS44NCwwLDAsMS0zLjY1LTEzLjc5LDI0LjgyLDI0LjgyLDAsMCwxLDEuMTYtOS45MiwyNi4xMiwyNi4xMiwwLDAsMSw0LjgzLTguNzUsMjgsMjgsMCwwLDEsNy45NC02LjQ2LDI1LjgyLDI1LjgyLDAsMCwxLDEwLjQ3LTMuMSwxMi4yMywxMi4yMywwLDAsMSw4LjA5LDEuNzMsOC41MSw4LjUxLDAsMCwxLDMuNiw2LjczLDIyLjg5LDIyLjg5LDAsMCwxLTIuMTUsMTEuNCw2OC42Miw2OC42MiwwLDAsMS01LjM5LDEwLjA2LDI5LjM0LDI5LjM0LDAsMCwwLTIsMy41Myw0LjY1LDQuNjUsMCwwLDAtLjM3LDIuMjMsMy4zNSwzLjM1LDAsMCwwLDEuMzEsMi4yLDMuNTksMy41OSwwLDAsMCwyLjc2LjkyYzEuOTItLjE3LDQuNTgtMS40LDgtMy43YTUzLDUzLDAsMCwwLDkuNzYtOC43LDU2LjA4LDU2LjA4LDAsMCwwLDcuOTQtMTEuNTYsMjIuNTUsMjIuNTUsMCwwLDAsMi43Mi0xMi40OCwxNCwxNCwwLDAsMC0zLjI3LTguMTYsMTkuOTQsMTkuOTQsMCwwLDAtNy4yOC01LjI2LDM1LjQ2LDM1LjQ2LDAsMCwwLTEwLjA2LTIuNiw1Ny44Myw1Ny44MywwLDAsMC0xMS44Ny0uMTMsNzAuNDQsNzAuNDQsMCwwLDAtMjAsNC44NUE2NC4zNCw2NC4zNCwwLDAsMCw2OS40NywyNC4xNSw1MC4yOSw1MC4yOSwwLDAsMCw1NywzOS41NWEzNS4yLDM1LjIsMCwwLDAtMy42NywxOS42Myw0OS40Niw0OS40NiwwLDAsMCw2Ljg1LDIxcTUuOTEsMTAsMTIuNjMsMTkuMjUsMi44OCw0LDUuNTksNy44NGMtMTQuNTktMi42MS0yOS01LjYtNDEuMjEtMS43NC0xNi4zMyw1LjE1LTIxLjU1LDEyLjg1LTI2LDIyLjIxcy0yLjUzLDIzLDEuNzYsMzAuNjIsMTIuMTcsMTcuMjEsMzIuMjYsMjEuMzdTODguNzcsMTgwLDEwNS4wOCwxNjhzMTYuMi0zMi4xNCwxNS42MS0zOWEzOS4zLDM5LjMsMCwwLDAtMS4yNC02LjksNjIsNjIsMCwwLDAsOC4yMS0yLjI0LDEzMS40MywxMzEuNDMsMCwwLDAtLjI4LDIzLjM0LDMzLjg4LDMzLjg4LDAsMCwwLDQsMTMuNzQsMzEuOTMsMzEuOTMsMCwwLDAsOC4zNSw5LjlBMzEuMzcsMzEuMzcsMCwwLDAsMTUxLDE3Mi40MWEzNy4yNywzNy4yNywwLDAsMCwxMywxLjEyQTI5LjA2LDI5LjA2LDAsMCwwLDE3OC44NCwxNjhhNjMsNjMsMCwwLDAsMTEuMjktMTAuMzdxMS4zOC0xLjYzLDIuNjgtMy4zOGEyMS44MywyMS44MywwLDAsMCw3LjQ4LDkuMzNxOC4zNCw2LjA5LDIxLDVBMjksMjksMCwwLDAsMjM2LjEzLDE2M2E2My40MSw2My40MSwwLDAsMCwxMS4zLTEwLjM3Yy40NC0uNTMuODYtMS4xLDEuMy0xLjY1YTI5LjgxLDI5LjgxLDAsMCwwLDguMTYsNi44NywzOS4wOCwzOS4wOCwwLDAsMCwxMy40OCw0LjY1LDYwLjMyLDYwLjMyLDAsMCwwLDE0LjQ3LjUzLDUwLjY4LDUwLjY4LDAsMCwwLDIwLjg0LTYsNzYuNDIsNzYuNDIsMCwwLDAsMTQuODQtMTAuNjcsNzUuNjksNzUuNjksMCwwLDAsNS40OC02LDMxLDMxLDAsMCwwLDguMTMsOC40MywzNy42MSwzNy42MSwwLDAsMCwxMi43OSw1LjcxLDQ3LjU1LDQ3LjU1LDAsMCwwLDE1Ljc1LDEuMXExMi42Ni0xLjEsMjEuNS02LjExYTcwLjIyLDcwLjIyLDAsMCwwLDE0LjYyLTEwLjY2LDU2LjgsNTYuOCwwLDAsMCwxMS0xNC44MnEuMzUtMS4xNC43Mi0yLjA3Yy4yNC0uNjIuNDUtMS4xOS42My0xLjczYTQuMTksNC4xOSwwLDAsMCwuMTktMS43QTQuMTQsNC4xNCwwLDAsMCw0MDkuNjQsMTE1LjU0Wk0zNTAuMDUsMTAyLjhBNTcuNjYsNTcuNjYsMCwwLDEsMzU0LjczLDkxYTQxLjA5LDQxLjA5LDAsMCwxLDcuMS05Ljc4LDE0LDE0LDAsMCwxLDguNzctNC41NmMyLjY2LS4yMyw0LjEzLDEuMTMsNC4zOCw0LjA5YTIyLjY0LDIyLjY0LDAsMCwxLTEuNDcsOC44NUE0Myw0MywwLDAsMSwzNjguMjYsMTAwYTM3LjQyLDM3LjQyLDAsMCwxLTguNTEsOC45LDIxLjE5LDIxLjE5LDAsMCwxLTExLDQuMzFBMzAuNDQsMzAuNDQsMCwwLDEsMzUwLjA1LDEwMi44Wk0xNzEuNTMsNTVhMTI0LjM4LDEyNC4zOCwwLDAsMSw4Ljg3LTE4Ljg4cTQuNDEtNy4zLDcuNTEtNy41OGMxLjc4LS4xNSwyLjc1LjgxLDIuOTMsMi44OGEzMS42MiwzMS42MiwwLDAsMS0xLjE5LDkuNDljLS43OSwzLjMxLTEuODQsNi45Mi0zLjExLDEwLjgtOC4zMSwyMC41LTE2LjY4LDMxLjI1LTI2LjE5LDM4LjUyLjc3LTMuMTUsMS42NS02LjI5LDIuNTYtOS40M1ExNjcsNjYuNTksMTcxLjUzLDU1Wk04NS45LDE1NmMtNC43NCw1LjQ5LTIwLjg0LDEwLjkzLTMwLjg2LDcuNzVzLTEzLjUzLTguNjItMTYtMTMuODctNS0yMC41LDYuMTEtMzAuOTNjOS4wOC04LjU3LDI5LjE5LTMsNDEuMzYuMjlhMzUuODYsMzUuODYsMCwwLDEsNS40LDE1LjQzUTkzLDE0Ny43Niw4NS45LDE1NloiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC04LjY4IC04LjQ5KSIvPjwvc3ZnPg==",
-      "color": "#d1384b",
-      "text": "#fff"
+      "description": "Shopify is an ecommerce platform, that enables entrepreneurs to sell online, on social media, or in person creating their own brand. During this internship, I have been working on the team that builds and manages internal tools for our data teams and data scientists, such as data presentation, discovery, governance and analysis tools. In this team, I have been working on: \n\n-  Learning analytics products and user interaction requirements since we build end-to-end solutions. For that I have been working with mainly Ruby on Rails or Python, using Flask and SQL Alchemy,  web applications. \n\n- Building structured streaming pipelines with Apache Spark, using both Scala and pySpark.\n\n- Analytical columnar databases and distributed query engines such as Presto, Redshift and Hive, extracting, modeling, transforming and querying data to understand, enable and produce the best insights to our teams.\n\n- Monitoring through dashboards and alerts on Splunk, Datadog and custom alerts.",
+      "url": "https://www.shopify.ca/",
+      "image": "https://www.quickpay.net/images/modules/shopify.png",
+      "color": "#BBE5B3",
+      "text": "#414F3E"
     },
     {
       "period": {
-        "beginDate": "August 2018",
-        "endDate": "March 2019"
+        "beginDate": "October 2016",
+        "endDate": "April 2018"
       },
-      "jobTitle": "Senior Front End Engineer",
-      "company": "Farfecth",
-      "location": "Sao Paulo, Brazil",
-      "description": "Working in a multidisciplinary global team, I'm currently helping to build what we consider to be the store of the future. My team is responsible for creating world class connected devices that will boost shoppers experience from the moment they walk in the store until they're ready to leave, making it also possible for them to continue shopping from home.\n\n There are two main React applications we're building and they're mostly being built using Redux, Nextjs, Electron, Webpack, Jest and Enzyme. The main one will be used on our fitting room's smart mirrors.\n\n I'm currently working on two product lines, the Store of The Future and the Black and White platform. Our core clients are huge and well known fashion brands like Chanel, Thom Browne and Browns and we always keep in mind the idea of having our products ready to be used for new clients in the future.",
-      "url": "https://farfetch.com",
-      "image": "https://cdn-static.farfetch-contents.com/v2-33-20086-516/static/images/bobLogo.svg",
-      "color": "#fafafa",
-      "text": "#333"
-    },
-    {
-      "period": {
-        "beginDate": "July 2017",
-        "endDate": "August 2018"
-      },
-      "jobTitle": "Front End Engineer",
-      "company": "QuintoAndar",
-      "location": "Sao Paulo, Brazil",
-      "description": "With a product driven mindset and many talented people, I helped to build QuintoAndar, the new generation real estate services in Brazil, with top-notch technologies such as PWA, ES6, React, Redux, Webpack, Nodejs, Jest, Enzyme, and others. This was by far the most enriching experience I had so far.\n\n Some of the accomplishments I helped achieving were:\n\n- Improve company's NPS to a challenging rate\n- Build features to help the company to scale\n- Build APIs that integrates with WhatsApp to improve our communications with our customers\n- Build features to improve SEO and marketing presence \n- Improve our apps performance",
-      "url": "https://quintoandar.com.br",
-      "image": "https://meulugar.quintoandar.com.br/wp-content/themes/meulugar-rebrand/dist/images/brand/5a-white.svg",
-      "color": "#5063f0",
-      "text": "#fff"
-    },
-    {
-      "period": {
-        "beginDate": "March 2017",
-        "endDate": "July 2017"
-      },
-      "jobTitle": "Full Stack Developer",
-      "company": "PRTE Tecnologia",
-      "location": "Barbacena, Brazil",
-      "description": "We used to build full scalable and stable applications for our clients and the goal was to propose technical solutions to companies problems, what we used to achieve by focusing on listening to their needs and delivering more than software solutions, but satisfaction and value.\n\n The main project was developed for Zôdio, a French company that was coming to Brazil and had their social network as their main business strategy. \n\nWe built the social network using ES6, Angularjs and Ionic, an API in Ruby and a CMS to manage the API in React.",
-      "url": "https://prte.com.br",
-      "image": "https://prte.com.br/assets/img/logo.png",
-      "color": "#f81889",
-      "text": "#fff"
-    },
-    {
-      "period": {
-        "beginDate": "September 2016",
-        "endDate": "March 2017"
-      },
-      "jobTitle": "Front End Developer",
-      "company": "Instmanager",
-      "location": "Barbacena, Brazil",
-      "description": "I've always worked by myself and at this point, I had just returned to Brazil to finish my Sandwich Graduation. \n\nI developed small projects using mostly Nodejs, Angularjs, Express and Mongodb. \n\nThe most impactful one was Instmanager, a client for Instagram that lets you manage your information and also gives you exclusive insights gathered from matching different data returned from the Instagram API.",
-      "url": "https://instmanager.herokuapp.com",
-      "image": "",
-      "color": "rgba(153,47,255,1)",
+      "jobTitle": "Software Engineer",
+      "company": "Stone",
+      "location": "Rio de Janeiro, Brazil",
+      "description": "Stone is the biggest independent payments acquirer in Brazil. I was part of the clearing/settlement team, in which we had to process all the transactions, transform its data and successfully communicate it to the different credit card brands. During the 1 year and 6 months I've spent on this team, I had experience with:\n\n- Managing the project of integrating with Elo, a new credit card brand in Brazil. What demanded high understanding and planning of requirements, scalability and good communication dealing with an external company. Adding Elo to Stone's accepted brands increased the volume of transactions done through our payments system in 30%.\n\n- C#, .NET framework services that would process the transactions in batches. Those solutions needed to be highly available, scalable and resilient since they would process all the financial flow of the company.\n\n- Building a service for calculation of the MasterCard interchange rate.\n\n- Changing a monolithic architecture to a microservices one using RabbitMQ for asynchronous messaging.\n\n- Database remodeling and migration on SQL Server and query improvement, since processing time was crucial.\n\n- Agile development methodologies such as Scrum and/or Kanban\n\n- Best practices with logging and monitoring, using Datazen, Kibana and Splunk dashboards and alerts.\n\n- Management and configuration of deployment with GoCD and Docker.",
+      "url": "https://www.stone.com.br",
+      "image": "https://lh3.googleusercontent.com/vDHzr4DgKl4IyCEjhuqzRQO9vdd-GGOxmcWXdd9N50lbXDDScyQCviPy2yn5-oS9wg",
+      "color": "#09AA36",
       "text": "#fff"
     },
     {
@@ -131,14 +82,28 @@
         "beginDate": "June 2016",
         "endDate": "September 2016"
       },
-      "jobTitle": "Junior Developer",
+      "jobTitle": "Junior Specialist Developer",
       "company": "University of California, Irvine",
       "location": "Irvine, United States",
-      "description": "During this Summer Internship, I was part of the team developing a project called iXercise, which aims to stimulate people exercising while they're playing games as Minecraft or Pokemon GO.\n\n I helped building the web app Front End with Angularjs and I also got to give some small Java contributions.",
+      "description": "Project: Cloudberry - Interactive Analytics and Visualization System on Large Scale data\n\n- During the summer I worked with Twitter API to collect data about Zika fever, then I built a pipeline on a Scala service for all different available sources of data to be stored in AsterixDB, a big data management system,  using Apache Kafka.\n\n- The project became the Final Project for my Bachelor's degree, in which I built a UI visualization to show the spread of Dengue Fever, Zika, Yellow Fever and Chikungunya diseases in Brazil. In order to do that I expanded the sources of data crawled to include news websites and then I built a process to clean and geographically classify the data.",
       "url": "https://uci.edu/",
-      "image": "",
+      "image": "https://www.aefis.com/wp-content/uploads/2012/07/UCI_Logo_for_white_background.png",
       "color": "#0064a4",
       "text": "#fff"
+    },
+    {
+      "period": {
+        "beginDate": "June 2016",
+        "endDate": "September 2016"
+      },
+      "jobTitle": "Developer Intern",
+      "company": "ADD Labs",
+      "location": "Niterói, Brazil",
+      "description": "ADDSMS project: store and analyze a large amount of data on occupational accidents in Petrobras (most important Brazilian energy corporation).\n\nPerformed several tests.",
+      "url": "http://www.addlabs.uff.br/",
+      "image": "http://www.addlabs.uff.br/2017/wp-content/themes/sydney/images/logo-colorido.png",
+      "color": "#f5f9fb",
+      "text": "#000"
     }
   ],
   "theme": {
