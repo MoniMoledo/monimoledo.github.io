@@ -6,12 +6,12 @@ import { Title, JobTitle } from './look';
 import Contacts from 'components/ContactFactory';
 
 export default function BusinessCard({ personalInfo }) {
-  const { name, jobTitle, location, contacts } = personalInfo;
+  const { name, font, jobTitle, location, contacts } = personalInfo;
   const { firstName, lastName } = name;
 
   return (
     <Card>
-      <Title>
+      <Title font={font}>
         {firstName}
         <strong> {lastName}</strong>
       </Title>

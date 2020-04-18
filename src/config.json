@@ -4,6 +4,10 @@
       "firstName": "Monique",
       "lastName": "Moledo"
     },
+    "font": {
+      "url": "https://fonts.googleapis.com/css2?family=Poiret+One&display=swap",
+      "name": "'Poiret One', cursive;'"
+    },
     "jobTitle": "Software Engineer",
     "location": "Ottawa, Canada",
     "contacts": [{
@@ -59,9 +63,9 @@
       "location": "Ottawa, Canada",
       "description": "Shopify is an ecommerce platform, that enables entrepreneurs to sell online, on social media, or in person creating their own brand. During this internship, I have been working on the team that builds and manages internal tools for our data teams and data scientists, such as data presentation, discovery, governance and analysis tools. In this team, I have been working on: \n\n-  Learning analytics products and user interaction requirements since we build end-to-end solutions. For that I have been working with mainly Ruby on Rails or Python, using Flask and SQL Alchemy,  web applications. \n\n- Building structured streaming pipelines with Apache Spark, using both Scala and pySpark.\n\n- Analytical columnar databases and distributed query engines such as Presto, Redshift and Hive, extracting, modeling, transforming and querying data to understand, enable and produce the best insights to our teams.\n\n- Monitoring through dashboards and alerts on Splunk, Datadog and custom alerts.",
       "url": "https://www.shopify.ca/",
-      "image": "https://www.quickpay.net/images/modules/shopify.png",
-      "color": "#BBE5B3",
-      "text": "#414F3E"
+      "image": "https://logictocreate.com/wp-content/uploads/2019/02/shopify_logo_white.png",
+      "color": "#202E78",
+      "text": "#F9FAFB"
     },
     {
       "period": {
@@ -107,9 +111,9 @@
     }
   ],
   "theme": {
-    "color": "#fff",
+    "color": "#F6F0FD",
     "fontUrl": "https://fonts.googleapis.com/css?family=Montserrat",
     "fontName": "'Montserrat', sans-serif",
-    "fontColor": "#000"
+    "fontColor": "#212B36"
   }
 }
